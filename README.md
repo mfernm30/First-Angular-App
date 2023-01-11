@@ -7,6 +7,7 @@ This is a simple application to getting started in Angular. In this application 
 - Dependency inyection
 
 This project is based on this tutorial: [Angular Tutorial](https://v13.angular.io/guide/what-is-angular).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 ## Development server
